@@ -1,0 +1,8 @@
+Package: freakstore-repo
+Version: 1.0
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Freakybob Team <freakybobsite@proton.me>
+Description: Freakybob Team APT repository
+ Installs the signing key and sources.list entry for the Freakstore repo.

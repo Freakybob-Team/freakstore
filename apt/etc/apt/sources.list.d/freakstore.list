@@ -1,0 +1,2 @@
+deb [signed-by=/usr/share/keyrings/freakstore.gpg] https://freakybob-team.github.io/freakstore/apt noble main
+
