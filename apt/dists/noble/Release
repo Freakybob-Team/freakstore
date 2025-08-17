@@ -1,0 +1,8 @@
+Origin: Freakstore
+Label: Freakstore
+Suite: noble
+Codename: noble
+Architectures: amd64 arm64
+Components: main
+Description: Freakybob Team APT repository
+EOF

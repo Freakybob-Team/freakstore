@@ -3,7 +3,7 @@ Version: 1.0.0-14+debug
 Architecture: iphoneos-arm
 Maintainer: Greg
 Installed-Size: 864
-Filename: ./test.deb
+Filename: pool/main/test.deb
 Size: 761730
 MD5sum: 6ab80f1d7e291a9247215c3c611da8fa
 SHA1: 0ca75b4f614142c8bacb8b3ed3e8e57592140f26
